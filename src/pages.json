@@ -8,6 +8,11 @@
       "path": "pages/hi",
       "type": "page",
       "layout": "home"
+    },
+    {
+      "path": "pages/tags",
+      "type": "page",
+      "layout": "home"
     }
   ],
   "globalStyle": {
